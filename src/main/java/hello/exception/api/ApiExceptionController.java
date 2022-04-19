@@ -48,6 +48,7 @@ public class ApiExceptionController {
     static class MemberDto {
         private String memberId;
         private String name;
+
     }
 
 }
